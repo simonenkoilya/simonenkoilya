@@ -6,7 +6,7 @@ I am also a non-professional system administrator and bug reporter.
 
 ### My work
 
-I've also done a few things in the past that aren't available on GitHub and Codeberg.
+I've also done a few things in the past that aren't available on GitHub, GitLab and Codeberg.
 
 ### [Contact](https://simonenkoilya.github.io/)
 
