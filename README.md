@@ -1,6 +1,6 @@
 ![Logo](logo.png)
 
-Hello! My name's **I**lya **S**imonenko. At the moment I am trying to learn English (so far using machine translation) and... something (JavaScript, TypeScript).
+Hello! My name's Ilya Simonenko. At the moment I am trying to learn English, JavaScript and TypeScript.
 
 I am also a non-professional system administrator and bug reporter.
 
