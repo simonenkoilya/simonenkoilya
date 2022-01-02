@@ -1,4 +1,4 @@
-![Logo](logo.mp4)
+![Logo](logo.gif)
 
 Hello! My name's Ilya Simonenko. At the moment I am trying to learn JavaScript.
 
