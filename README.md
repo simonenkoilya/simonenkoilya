@@ -2,7 +2,7 @@
 
 Hello! My name's Ilya Simonenko. At the moment I am trying to learn JavaScript.
 
-I am also a non-professional coder
+I am also a non-professional developer
 
 ### My work
 
