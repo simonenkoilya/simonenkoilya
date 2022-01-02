@@ -1,12 +1,12 @@
 ![Logo](logo.png)
 
-Hello! My name's Ilya Simonenko. At the moment I am trying to learn English, JavaScript and TypeScript.
+Hello! My name's Ilya Simonenko. At the moment I am trying to learn JavaScript.
 
-I am also a non-professional system administrator and bug reporter.
+I am also a non-professional coder
 
 ### My work
 
-I've also done a few things in the past that aren't available on GitHub, GitLab and Codeberg.
+I've also done a few things in the past that aren't available on GitHub.
 
 ### [Contact](https://simonenkoilya.github.io/)
 
