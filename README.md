@@ -1,17 +1,25 @@
-![Logo](logo.gif)
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Ilya</h1>
+<h3 align="center">Developer</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=simonenkoilya" alt="simonenkoilya" /> </p>
 
-Hello! My name's Ilya Simonenko. At the moment I am trying to learn JavaScript.
+- 🔭 I’m currently working on: [none][website]!
+- 🌱 I’m currently learning everything 🤣
+- 🥅 2021 Goals: Learned web programming languages at a basic level
 
-I am also a non-professional developer
+### Stats:
+<a href="https://github.com/simonenkoilya">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=simonenkoilya&show_icons=true&theme=light&line_height=27" height="200px"/>
+</a>
 
-### My work
+### Connect with me:
 
-I've also done a few things in the past that aren't available on GitHub.
+[<img align="left" alt="Ilya | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+[<img align="left" alt="Ilya | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
+[<img align="left" alt="xMrV1zzy | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/steam.svg" />][steam]
 
-### [Contact](https://simonenkoilya.github.io/)
+<br />
 
-### The things I use
-
-![Shields.io OS](https://img.shields.io/badge/OS-Windows%2010-blue?style=for-the-badge&logo=windows) ![Shields.io IDE](https://img.shields.io/badge/IDE-VSCode-blue?style=for-the-badge&logo=visualstudiocode) ![Shields.io Browser](https://img.shields.io/badge/Browser-Microsoft%20Edge-blue?style=for-the-badge&logo=microsoftedge)
-
-*Perhaps I'll add something to this list later.*
+[website]: https://simonenkoilya.github.io
+[telegram]: https://t.me/simonenkoilya
+[discord]: https://discord.gg/tnGDWyPyCY
+[steam]: https://steamcommunity.com/id/simonenkoilya
