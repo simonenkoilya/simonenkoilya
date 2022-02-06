@@ -27,5 +27,5 @@ Apart from coding, I also maintain a Discord server - you can find me at [Discor
 
 <p>
   <a href="https://t.me/simonenkoilya"><img src="https://img.shields.io/badge/-simonenkoilya-5194f0?style=flat-square&logo=telegram" /></a>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=extremecodetv.visitor-badge&color=5194f0" />
+  <img src="https://visitor-badge.glitch.me/badge?page_id=simonenkoilya.visitor-badge&color=5194f0" />
 </p>
