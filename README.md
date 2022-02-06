@@ -2,7 +2,7 @@
 
 My name is Ilya and I'm a backend software engineer. I'm from CIS and currently learn [Python](https://www.python.org/). 
 
-### 📺 Discord Server
+### 💬 Discord Server
 
 Apart from coding, I also maintain a Discord server - you can find me at [Discord](https://discord.gg/2j5sNpVvxv)
 
