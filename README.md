@@ -1,4 +1,4 @@
-## <img src="https://raw.githubusercontent.com/extremecodetv/extremecodetv/master/wave.gif" width="25px"> Hi there! 
+## <img src="https://raw.githubusercontent.com/simonenkoilya/simonenkoilya/master/wave.gif" width="25px"> Hi there! 
 
 My name is Ilya and I'm a backend software engineer. I'm from CIS and currently learn [Python](https://www.python.org/). 
 
