@@ -1,6 +1,3 @@
-## <img src="https://raw.githubusercontent.com/simonenkoilya/simonenkoilya/master/wave.gif" width="25px"> Hello! 
-
-### 📈 GitHub Stats
 <p align="center">
   <table>
   <tr>
