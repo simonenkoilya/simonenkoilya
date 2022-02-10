@@ -7,11 +7,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 - 🌱 I’m currently learning **python**
 
-- 📝 I regularly write articles on [**Habr (Ru)**](https://habr.com/ru/users/daniilshat/posts/)
-
 - 📫 How to reach me [**telegram**](https://t.me/simonenkoilya)
-
-- 📄 Know about my experiences [**Habr Career (Ru)**](https://career.habr.com/daniilshat)
 
 - 🌍 I speak Russian (native), English (A1)
 
